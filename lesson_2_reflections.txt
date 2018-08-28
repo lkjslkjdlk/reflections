@@ -19,6 +19,8 @@ There are several parallel utilities that needed to maintain.
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams are helpful to recognize the parent of each commit.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
