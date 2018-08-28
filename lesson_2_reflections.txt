@@ -24,5 +24,7 @@ Diagrams are helpful to recognize the parent of each commit.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+A new commit is created and its parents are the two merged branches. Because it has two parents.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
