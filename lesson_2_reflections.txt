@@ -12,8 +12,10 @@ change?
 
 Only put files that involve the logical change into the staging area.
 
-What are some situations when branches would be helpful in keeping your history
+What are some situations when branches would be helpful in keeping your historyj
 organized? How would branches help?
+
+There are several parallel utilities that needed to maintain.
 
 How do the diagrams help you visualize the branch structure?
 
